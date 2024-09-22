@@ -1,2 +1,3 @@
 # c-program
-This is my C 
+This is my C program
+Author - Percy
